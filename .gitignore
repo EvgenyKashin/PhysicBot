@@ -87,3 +87,11 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Voice tracks
+*.wav
+*.mp3
+*.oga
+
+# Private config
+private.py
